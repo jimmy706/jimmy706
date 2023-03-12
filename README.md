@@ -1,4 +1,4 @@
-![junedang_wallpaper](https://user-images.githubusercontent.com/34393773/199275278-59b4474e-0a5b-4d31-8ea5-e07d9d1bd1f1.png)
+![social_network_background](https://user-images.githubusercontent.com/34393773/224543215-b718f5cd-dfa0-4a94-b279-d6692aa474c4.png)
 
 ## Hello Wolrd, My name is June Dang 👋
 
