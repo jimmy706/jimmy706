@@ -9,3 +9,6 @@ I love reading, writting and coding (of course). In all off it, I love sharing m
 - My sharing on personal [blog post](https://junedang.com) 🖋️
 - My work on [Linkedin](https://www.linkedin.com/in/%C4%91%E1%BA%B7ng-d%C5%A9ng-843588163/) 💼
 - Some ... other suff on [Twitter](https://twitter.com/june_dang0706) 😹
+
+## Checkout my DevCard 👇
+<a href="https://app.daily.dev/junedang"><img src="https://api.daily.dev/devcards/0ba5cf1ce365484e8a890f8a77db36bb.png?r=w97" width="400" alt="June Dang's Dev Card"/></a>
